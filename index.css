@@ -1,0 +1,624 @@
+.intro-icon {
+    position: absolute;
+    top: 2689.89px;
+    left: 415.34px;
+    width: 679.88px;
+    height: 109.07px;
+  }
+  .group-child {
+    border-radius: 4.06px;
+    border: 0.8px solid var(--color-seagreen);
+    box-sizing: border-box;
+  }
+  .group-child,
+  .nav-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 158.32px;
+    height: 36.53px;
+  }
+  .for-station-owners {
+    position: absolute;
+    top: 8.93px;
+    left: 30.04px;
+    display: inline-block;
+    width: 99.05px;
+  }
+  .nav,
+  .process {
+    position: absolute;
+  }
+  .nav {
+    top: 56px;
+    left: 1170px;
+    width: 158.32px;
+    height: 36.53px;
+    font-size: 11.37px;
+  }
+  .process {
+    top: 1.62px;
+    left: 30.89px;
+    display: inline-block;
+    width: 97.82px;
+  }
+  .group-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 4.06px;
+    background-color: var(--color-seagreen);
+    width: 158.32px;
+    height: 36.53px;
+  }
+  .for-ev-owners {
+    position: absolute;
+    top: 11.37px;
+    left: 41.41px;
+    font-size: 11.37px;
+    display: inline-block;
+    width: 76.32px;
+  }
+  .nav1 {
+    position: absolute;
+    top: 56px;
+    left: 1339.68px;
+    width: 158.32px;
+    height: 36.53px;
+    font-size: 17.86px;
+  }
+  .whatsapp-image-2023-03-15-at-1,
+  .whatsapp-image-2023-03-15-at-11 {
+    position: absolute;
+    top: 9px;
+    left: 123px;
+    border-radius: var(--br-149xl-5);
+    width: 253px;
+    height: 154px;
+    object-fit: cover;
+  }
+  .whatsapp-image-2023-03-15-at-11 {
+    top: 109px;
+    left: 221px;
+    height: 54px;
+  }
+  .unique-solutions-for {
+    margin: 0;
+  }
+  .unique-solutions-for-container {
+    position: absolute;
+    top: 402.33px;
+    left: 90.2px;
+    font-size: 63.96px;
+    line-height: 98.9%;
+    font-weight: 800;
+    font-family: var(--font-nunito);
+    display: inline-block;
+    width: 626px;
+  }
+  .for-everyone-every,
+  .we-offer-a {
+    position: absolute;
+    color: var(--color-seagreen);
+    display: inline-block;
+  }
+  .we-offer-a {
+    top: 1132px;
+    left: 782.49px;
+    font-size: 41.98px;
+    line-height: 111.9%;
+    font-weight: 800;
+    font-family: var(--font-nunito);
+    width: 719.68px;
+  }
+  .for-everyone-every {
+    top: 361.55px;
+    left: 90.2px;
+    font-size: 19.19px;
+    line-height: 98.9%;
+    width: 523.67px;
+    height: 24.78px;
+  }
+  .our-residential-commercial,
+  .our-residential-commercial1 {
+    position: absolute;
+    line-height: 131.9%;
+    text-align: justify;
+    display: inline-block;
+  }
+  .our-residential-commercial {
+    top: 567.02px;
+    left: 90.2px;
+    font-size: 19.19px;
+    color: rgba(195, 195, 195, 0.5);
+    width: 523.67px;
+    height: 215.86px;
+  }
+  .our-residential-commercial1 {
+    top: 2095px;
+    left: 874.13px;
+    font-size: 19.53px;
+    width: 585.87px;
+    height: 92.76px;
+  }
+  .div,
+  .div1 {
+    top: 0;
+    font-weight: 600;
+    height: 35.11px;
+  }
+  .div {
+    position: absolute;
+    left: 0;
+    line-height: 130%;
+    display: inline-block;
+    width: 90.14px;
+  }
+  .div1 {
+    left: 270.42px;
+    width: 69.43px;
+  }
+  .div1,
+  .happy-users,
+  .k,
+  .total-users,
+  .trusted-by-company {
+    position: absolute;
+    line-height: 130%;
+    display: inline-block;
+  }
+  .k {
+    top: 0;
+    left: 590.52px;
+    font-weight: 600;
+    width: 113.28px;
+    height: 35.11px;
+  }
+  .happy-users,
+  .total-users,
+  .trusted-by-company {
+    top: 9.31px;
+    left: 108.67px;
+    font-size: 13.59px;
+    text-transform: uppercase;
+    color: var(--color-seagreen);
+    width: 103.66px;
+    height: 17.95px;
+  }
+  .happy-users,
+  .trusted-by-company {
+    top: 9.06px;
+    left: 358.12px;
+    width: 157.14px;
+    height: 18.12px;
+  }
+  .happy-users {
+    top: 9.31px;
+    left: 678.45px;
+    width: 98.66px;
+    height: 17.95px;
+  }
+  .group-inner,
+  .line-div {
+    position: absolute;
+    top: 13.03px;
+    left: 233.31px;
+    border-right: 1.1px solid var(--color-gray-600);
+    box-sizing: border-box;
+    width: 1.13px;
+    height: 10.19px;
+  }
+  .line-div {
+    left: 553.67px;
+  }
+  .parent {
+    position: absolute;
+    top: 782.89px;
+    left: 90.2px;
+    width: 777.11px;
+    height: 35.11px;
+    font-size: 27.18px;
+    font-family: var(--font-poppins);
+  }
+  .find-ev-point {
+    position: relative;
+    font-weight: 500;
+  }
+  .find-ev-point-wrapper {
+    border-radius: 7.99px;
+    background-color: var(--color-white);
+    border: 0.8px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 497.29px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 12.79192066192627px 19.987375259399414px;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .get-started {
+    position: relative;
+    font-weight: 600;
+  }
+  .sign-in {
+    border-radius: 7.99px;
+    background-color: var(--color-seagreen);
+    display: flex;
+    flex-direction: row;
+    padding: 12.79192066192627px 19.987375259399414px;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-snow);
+  }
+  .frame-parent,
+  .sign-in1,
+  .sign-in2 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    font-family: var(--button-header);
+  }
+  .frame-parent {
+    top: 682.95px;
+    left: 87px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 15.99px;
+    font-size: 11.19px;
+    color: var(--color-gray-100);
+  }
+  .sign-in1,
+  .sign-in2 {
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-snow);
+  }
+  .sign-in1 {
+    top: 2197.53px;
+    left: 874.13px;
+    border-radius: 8.14px;
+    background-color: var(--color-seagreen);
+    width: 146.47px;
+    padding: 13.019230842590332px 20.342548370361328px;
+    font-size: 11.39px;
+  }
+  .sign-in2 {
+    top: 1658.27px;
+    left: 853.71px;
+    border-radius: 7.5px;
+    border: 0.7px solid var(--color-seagreen);
+    width: 197.16px;
+    padding: 11.994673728942871px 18.74167823791504px;
+    font-size: 10.5px;
+  }
+  .image-2-icon,
+  .image-4-icon {
+    position: absolute;
+    top: 1132px;
+    left: 387.11px;
+    border-radius: 22.49px;
+    width: 278.13px;
+    height: 384.58px;
+    object-fit: cover;
+  }
+  .image-4-icon {
+    top: 1300.68px;
+    left: 73px;
+  }
+  .convenience-ev-charging-container {
+    position: absolute;
+    top: 0;
+    left: 97.02px;
+    line-height: 131.9%;
+    display: inline-block;
+    width: 606.17px;
+    height: 317.86px;
+  }
+  .mask-group-icon,
+  .mask-group-icon1,
+  .mask-group-icon2 {
+    position: absolute;
+    top: 11.24px;
+    left: 0;
+    width: 72.36px;
+    height: 62.97px;
+    object-fit: cover;
+  }
+  .mask-group-icon1,
+  .mask-group-icon2 {
+    top: 131.19px;
+  }
+  .mask-group-icon2 {
+    top: 236.15px;
+  }
+  .convenience-ev-charging-stati-parent {
+    position: absolute;
+    top: 1293.18px;
+    left: 757px;
+    width: 703.19px;
+    height: 317.86px;
+    text-align: justify;
+    font-size: 17.99px;
+  }
+  .every-charging-solution {
+    position: absolute;
+    top: 2095px;
+    left: 106px;
+    font-size: 52.08px;
+    line-height: 98.9%;
+    font-weight: 800;
+    font-family: var(--font-nunito);
+    color: var(--color-seagreen);
+    display: inline-block;
+    width: 689.21px;
+  }
+  .screenshot-67-1 {
+    position: absolute;
+    top: 2423.57px;
+    left: 0;
+    width: 1642.92px;
+    height: 723.4px;
+    object-fit: cover;
+  }
+  .image-10-icon,
+  .image-10-wrapper {
+    position: absolute;
+    width: 80.77px;
+    height: 50.48px;
+  }
+  .image-10-icon {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-14xl);
+    object-fit: cover;
+  }
+  .image-10-wrapper {
+    top: 27px;
+    left: 17px;
+  }
+  .our-residential-commercial2 {
+    position: absolute;
+    top: 168px;
+    left: 61px;
+    line-height: 131.9%;
+    display: inline-block;
+    width: 221px;
+    height: 95px;
+  }
+  .picture {
+    position: absolute;
+    top: 3488px;
+    left: 236px;
+    border-radius: var(--br-xs);
+    background-color: var(--color-gray-400);
+    box-shadow: 4px 4px 4px rgba(57, 57, 57, 0.25);
+    width: 344px;
+    height: 302px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--button-header-size);
+  }
+  .fleet-and-automakers,
+  .the-industry-leaders {
+    position: absolute;
+    top: 112px;
+    left: 52px;
+    line-height: 131.9%;
+    display: inline-block;
+    width: 239px;
+    height: 39px;
+  }
+  .the-industry-leaders {
+    top: 168px;
+    left: 61px;
+    font-size: var(--button-header-size);
+    color: var(--color-white);
+    text-align: center;
+    width: 221px;
+    height: 95px;
+  }
+  .picture2 {
+    position: absolute;
+    top: 3488px;
+    left: 595px;
+    border-radius: var(--br-xs);
+    background-color: var(--color-gray-400);
+    box-shadow: 4px 4px 4px rgba(57, 57, 57, 0.25);
+    width: 344px;
+    height: 302px;
+    overflow: hidden;
+    text-align: justify;
+    color: var(--color-seagreen);
+  }
+  .drivers-personal-use {
+    position: absolute;
+    top: 112px;
+    left: 61px;
+    line-height: 131.9%;
+    display: inline-block;
+    width: 222px;
+    height: 39px;
+  }
+  .business-and-commercial,
+  .picture3 {
+    position: absolute;
+    color: var(--color-seagreen);
+    text-align: justify;
+  }
+  .picture3 {
+    top: 3488px;
+    left: 956px;
+    border-radius: var(--br-xs);
+    background-color: var(--color-gray-400);
+    box-shadow: 4px 4px 4px rgba(57, 57, 57, 0.25);
+    width: 344px;
+    height: 302px;
+    overflow: hidden;
+  }
+  .business-and-commercial {
+    top: 3600px;
+    left: 269px;
+    line-height: 131.9%;
+    display: inline-block;
+    width: 278px;
+    height: 39px;
+  }
+  .image-10-container,
+  .image-11-icon,
+  .image-12-icon {
+    position: relative;
+    width: 80.77px;
+    height: 50.48px;
+    flex-shrink: 0;
+  }
+  .image-11-icon,
+  .image-12-icon {
+    width: 51px;
+    height: 51px;
+    object-fit: cover;
+  }
+  .image-12-icon {
+    width: 74px;
+    height: 80px;
+  }
+  .group-parent {
+    position: absolute;
+    top: 3507px;
+    left: 253px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 307px;
+  }
+  .image-14-icon {
+    position: absolute;
+    top: 288px;
+    left: 741.79px;
+    width: 777.11px;
+    height: 480.5px;
+    object-fit: cover;
+  }
+  .web-child {
+    position: absolute;
+    top: 2361px;
+    left: 0;
+    width: 802px;
+    height: 802px;
+  }
+  .filtered-by-distance {
+    position: absolute;
+    top: 0;
+    left: 60.18px;
+    line-height: 131.9%;
+    display: inline-block;
+    width: 191.53px;
+    height: 30.52px;
+  }
+  .vector-icon {
+    position: absolute;
+    height: 22.92%;
+    width: 8.89%;
+    top: 38.54%;
+    right: 91.11%;
+    bottom: 38.54%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .filtered-by-distance-parent {
+    position: absolute;
+    top: 2494.54px;
+    left: 72.82px;
+    width: 251.72px;
+    height: 30.52px;
+    text-align: justify;
+    font-size: 21.37px;
+  }
+  .filtered-by-energy {
+    position: absolute;
+    top: 0;
+    left: 71.22px;
+    line-height: 131.9%;
+    display: inline-block;
+    width: 260.21px;
+    height: 30.52px;
+  }
+  .vector-icon1 {
+    position: absolute;
+    height: 22.92%;
+    width: 6.75%;
+    top: 43.54%;
+    right: 93.25%;
+    bottom: 33.54%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .filtered-by-energy-per-min-parent {
+    position: absolute;
+    top: 2712.78px;
+    left: 110.87px;
+    width: 331.43px;
+    height: 30.52px;
+    text-align: justify;
+    font-size: 21.37px;
+  }
+  .filtered-by-rate {
+    position: absolute;
+    top: 0;
+    left: 101.39px;
+    line-height: 131.9%;
+    display: inline-block;
+    width: 155.67px;
+    height: 30.52px;
+  }
+  .vector-icon2 {
+    position: absolute;
+    height: 22.92%;
+    width: 8.71%;
+    top: 43.54%;
+    right: 91.29%;
+    bottom: 33.54%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .filtered-by-rate-parent {
+    position: absolute;
+    top: 2959.26px;
+    left: 72.82px;
+    width: 257.06px;
+    height: 30.52px;
+    text-align: justify;
+    font-size: 21.37px;
+  }
+  .web-inner,
+  .web-item {
+    position: absolute;
+    top: 2870.29px;
+    left: 322.03px;
+    width: 93.38px;
+    height: 91.68px;
+  }
+  .web-inner {
+    top: 2578.37px;
+  }
+  .web {
+    position: relative;
+    background-color: #0a0a0a;
+    width: 100%;
+    height: 3970px;
+    overflow: hidden;
+    cursor: pointer;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-outfit);
+  }
+  
